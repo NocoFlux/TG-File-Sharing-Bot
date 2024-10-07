@@ -1,6 +1,3 @@
-#(©)Codexbotz
-#Recoded By @Its_Tartaglia_Childe
-
 import base64
 import re
 import asyncio
