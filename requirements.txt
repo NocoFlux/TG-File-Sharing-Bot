@@ -1,0 +1,7 @@
+aiohttp
+TgCrypto
+pyrogram
+pyromod==1.5
+dnspython
+pymongo
+
