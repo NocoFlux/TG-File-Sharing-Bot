@@ -1,4 +1,4 @@
-#MONGO_DB_NAME = "USERDATA"
+#Nothing is here
 
 
 
