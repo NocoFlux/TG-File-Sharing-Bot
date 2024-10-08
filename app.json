@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": ""
+      "value": "5296584067"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -23,11 +23,11 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": ""
+      "value": "url"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": ""
+      "value": "NocoFlux"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
@@ -35,23 +35,23 @@
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": ""
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL_1":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": ""
+      "value": "0"
     },
     "FORCE_SUB_CHANNEL_2":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": ""
+      "value": "0"
     },
     "FORCE_SUB_CHANNEL_3":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": ""
+      "value": "0"
     },
     "FORCE_SUB_CHANNEL_4":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": ""
+      "value": "0"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
@@ -63,12 +63,12 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "false",
       "required": false
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "False",
+      "value": "false",
       "required": false
     }
   },
