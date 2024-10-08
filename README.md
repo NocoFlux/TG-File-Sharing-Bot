@@ -45,6 +45,42 @@
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
 
+### Admin Commands
+
+```
+start - start the bot or get posts
+
+genlink - create link for one post
+
+batch - create link for more than one posts
+
+broadcast - broadcast any messages to bot users
+
+users - view bot statistics
+
+dev - about developer
+
+id - to get your user id
+
+stats - checking your bot uptime
+
+```
+
+# Fillings
+• START OR FORCESUB MESSAGE
+
+* `{first}` - User first name  
+* `{last}` - User last name  
+* `{id}` - User ID  
+* `{mention}` - Mention the user 
+* `{username}` - Username  
+
+• CUSTOM_CAP
+* `{filename}` - file name of the Document  
+* `{previouscaption}` - Original Caption  
+
+• CUSTOM_UPTIME
+* `{uptime}` - Bot Uptime
 
 
 
