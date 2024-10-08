@@ -59,7 +59,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Whatt!You haven't join worlds bast channel ever create in human existence, Join Now! All of Them, Smash them")"
+      "value": "Whatt!You haven't join worlds bast channel ever create in human existence, Join Now! All of Them, Smash them"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
