@@ -60,7 +60,7 @@ broadcast - broadcast any messages to bot users
 users - view bot statistics
 dev - about developer
 id - to get your user id
-stats - checking your bot uptime
+botstats - checking your bot uptime
 
 ```
 
