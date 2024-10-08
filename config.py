@@ -6,22 +6,22 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot Variables
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "Your Bot Token Here")
-APP_ID = int(os.environ.get("APP_ID", "Your Telegram account App id"))
-API_HASH = os.environ.get("API_HASH", "Your Telegram account Api hash here")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+APP_ID = int(os.environ.get("APP_ID", ""))
+API_HASH = os.environ.get("API_HASH", "")
 OWNER_ID = int(os.environ.get("OWNER_ID", "5296584067"))
 
 #Database Variables
-DB_URL = os.environ.get("DATABASE_URL", "Put-Your-MongoDB-Url-Here")
+DB_URL = os.environ.get("DATABASE_URL", "")
 DB_NAME = os.environ.get("DATABASE_NAME", "NocoFlux")
 #your channel id where the file will be stored as log format
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002191732189"))
 
 #Force Sub Channel id [Your Telegram Channels id] 
-FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "Put Fchannel_1 id here"))
-FORCE_SUB_CHANNEL_2 = int(os.environ.get("FORCE_SUB_CHANNEL_2", "Put Fchannel_2 id here"))
-FORCE_SUB_CHANNEL_3 = int(os.environ.get("FORCE_SUB_CHANNEL_3", "Put Fchannel_3 id here"))
-FORCE_SUB_CHANNEL_4 = int(os.environ.get("FORCE_SUB_CHANNEL_4", "Put Fchannel_4 id here"))
+FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", ""))
+FORCE_SUB_CHANNEL_2 = int(os.environ.get("FORCE_SUB_CHANNEL_2", ""))
+FORCE_SUB_CHANNEL_3 = int(os.environ.get("FORCE_SUB_CHANNEL_3", ""))
+FORCE_SUB_CHANNEL_4 = int(os.environ.get("FORCE_SUB_CHANNEL_4", ""))
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Whatt!You haven't join worlds bast channel ever create in human existence, Join Now! All of Them, Smash them")
 
 
