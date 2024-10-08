@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/NocoFlux-orange?style=for-the-badge&logo=Github&label=Made%20by%20" style="width: 250px;">
 </div>
 
-### Short Description
+### 😋Short Description
  - This is File Store Bot for Telegram Platform, which bot can send users a spacific files through link, genarated by admin itself.
 
-### Features
+### 🔥Features
  - 4 Force Sub Channel
  - Single or Multiple Files Link Support [Batch]
  - Free Deployable [Koyeb][Render]
@@ -19,7 +19,7 @@
  - Fully Free to use.
  - More Updates in near future.
 
-### Variables
+### 💫Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `APP_ID` Your API ID from my.telegram.org
@@ -29,7 +29,7 @@
 * `DB_URL` Your mongo db url
 * `DB_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/NocoFlux/TG-File-Sharing-Bot/raw/refs/heads/main/Others/fillings.md'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/NocoFlux/TG-File-Sharing-Bot/blob/main/Others/fillings.md'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL_1` Optional: ForceSub1 Channel ID, leave 0 if you want disable force sub
 * `FORCE_SUB_CHANNEL_2` Optional: ForceSub2 Channel ID, leave 0 if you want disable force sub
@@ -37,15 +37,15 @@
 * `FORCE_SUB_CHANNEL_4` Optional: ForceSub4 Channel ID, leave 0 if you want disable force sub
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 
-### Extra Variables
+### 🩶Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/NocoFlux/TG-File-Sharing-Bot/blob/main/Others/fillings.md'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
-* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#custom_stats'>fillings</a>
+* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='httpshref='https://github.com/NocoFlux/TG-File-Sharing-Bot/blob/main/Others/fillings.md''>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
 
-### Admin Commands
+### 🗝️Admin Commands
 
 ```
 start - start the bot or get posts
@@ -66,23 +66,13 @@ stats - checking your bot uptime
 
 ```
 
-# Fillings
-• START OR FORCESUB MESSAGE
-
-* `{first}` - User first name  
-* `{last}` - User last name  
-* `{id}` - User ID  
-* `{mention}` - Mention the user 
-* `{username}` - Username  
-
-• CUSTOM_CAP
-* `{filename}` - file name of the Document  
-* `{previouscaption}` - Original Caption  
-
-• CUSTOM_UPTIME
-* `{uptime}` - Bot Uptime
+### 💻Support and Bugs
+![Static Badge](https://img.shields.io/badge/NocoFlux-white?style=plastic&logo=Telegram&label=Developer&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
 
 
 
-
-  
+### 🖇️ Credit
+ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs
+ - ɴᴏᴄᴏғʟᴜx (ᴅᴇᴠ)
+ - ʙᴀsᴇ ᴄᴏᴅᴇ - @ᴄᴏᴅᴇxʙᴏᴛᴢ
+ - ɪɴsᴘɪʀᴇᴅ ғʀᴏᴍ - @ᴄᴏᴅᴇғʟɪxʙᴏᴛᴢ
