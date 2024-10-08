@@ -11,6 +11,9 @@
 ### 😋Short Description
  - This is File Store Bot for Telegram Platform, which bot can send users a spacific files through link, genarated by admin itself.
 
+![Static Badge](https://img.shields.io/badge/Try%20Now-cyan?style=for-the-badge&logo=bot&label=%E1%B4%85%E1%B4%87%E1%B4%8D%E1%B4%8F%20%CA%99%E1%B4%8F%E1%B4%9B&link=https%3A%2F%2Ft.me%2FFileSharingQuestBot)
+
+
 ### 🔥Features
  - 4 Force Sub Channel
  - Single or Multiple Files Link Support [Batch]
