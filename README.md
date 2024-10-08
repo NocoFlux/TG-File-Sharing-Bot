@@ -54,19 +54,12 @@
 
 ```
 start - start the bot or get posts
-
 genlink - create link for one post
-
 batch - create link for more than one posts
-
 broadcast - broadcast any messages to bot users
-
 users - view bot statistics
-
 dev - about developer
-
 id - to get your user id
-
 stats - checking your bot uptime
 
 ```
