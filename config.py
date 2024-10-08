@@ -48,7 +48,7 @@ CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None) # if you want to add cus
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True' #keep if none thats better but if you know what to do then as you wish
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "Arrogant, Do you think you are my Owner ??"
+USER_REPLY_TEXT = "You can't send me Direct Message."
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(5296584067) #put owner id here also 
