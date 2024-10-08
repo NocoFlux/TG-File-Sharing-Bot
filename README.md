@@ -72,7 +72,7 @@ stats - checking your bot uptime
 ```
 
 ### 💻Support and Bugs
-![Static Badge](https://img.shields.io/badge/NocoFlux-white?style=plastic&logo=Telegram&label=Developer&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
+[![Static Badge](https://img.shields.io/badge/NocoFlux-white?style=plastic&logo=Telegram&label=Developer&link=https%3A%2F%2Ft.me%2Fabidabdullah199)](https://t.me/abidabdullah199)
 
 
 
