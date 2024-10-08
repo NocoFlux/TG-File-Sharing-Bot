@@ -39,9 +39,10 @@
 
 ### 🩶Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/NocoFlux/TG-File-Sharing-Bot/blob/main/Others/fillings.md'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/NocoFlux/TG-File-Sharing-Bot/blob/main/Others/fillings.md'>fillings</a> for formatting (only for documents
+
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
-* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='httpshref='https://github.com/NocoFlux/TG-File-Sharing-Bot/blob/main/Others/fillings.md''>fillings</a>
+* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/NocoFlux/TG-File-Sharing-Bot/blob/main/Others/fillings.md'>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
 
@@ -73,6 +74,9 @@ stats - checking your bot uptime
 
 ### 🖇️ Credit
 ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs
- - ɴᴏᴄᴏғʟᴜx (ᴅᴇᴠ)
- - ʙᴀsᴇ ᴄᴏᴅᴇ - @ᴄᴏᴅᴇxʙᴏᴛᴢ
- - ɪɴsᴘɪʀᴇᴅ ғʀᴏᴍ - @ᴄᴏᴅᴇғʟɪxʙᴏᴛᴢ
+ - ɴᴏᴄᴏғʟᴜx
+  (ᴅᴇᴠ)
+ - ʙᴀsᴇ ᴄᴏᴅᴇ
+  @ᴄᴏᴅᴇxʙᴏᴛᴢ
+ - ɪɴsᴘɪʀᴇᴅ ғʀᴏᴍ
+  @ᴄᴏᴅᴇғʟɪxʙᴏᴛᴢ
