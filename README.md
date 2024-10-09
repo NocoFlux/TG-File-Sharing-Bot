@@ -23,6 +23,9 @@
  - Fully Free to use.
  - More Updates in near future.
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=tg-file-sharing-bot&type=git&repository=NocoFlux%2FTG-File-Sharing-Bot&branch=main&builder=buildpack&run_command=python3+main.py&env%5BAPI_HASH%5D=&env%5BAPP_ID%5D=&env%5BCHANNEL_ID%5D=&env%5BDB_URL%5D=&env%5BFORCE_SUB_CHANNEL_1%5D=&env%5BFORCE_SUB_CHANNEL_2%5D=&env%5BFORCE_SUB_CHANNEL_3%5D=&env%5BFORCE_SUB_CHANNEL_4%5D=&env%5BOWNER_ID%5D=&env%5BTG_BOT_TOKEN%5D=)
+
+
 ### 💫Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
